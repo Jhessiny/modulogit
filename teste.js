@@ -1,1 +1,1 @@
-Novo JavaScript
+//Novo JavaScript
